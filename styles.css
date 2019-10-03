@@ -6,5 +6,5 @@ html, body {
 .first {
 	display: flex;
 	justify-content: center;
-	color: yellow;
+	color: red;
 }
