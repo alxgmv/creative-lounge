@@ -3,3 +3,8 @@ html, body {
 	padding: 0;
 	font-family: Arial;
 }
+.first {
+	display: flex;
+	justify-content: center;
+	color: red;
+}
